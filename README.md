@@ -42,3 +42,9 @@ ShoppingCart Function:
 
 If you run code and stuck in loop, this because you didn't exits code running earlier correctly. Just run again
 Hope you enjoy my project.
+## Compilation Instructions
+
+Compile the project using g++:
+
+```bash
+g++ main.cpp User.cpp Product.cpp Cart.cpp Order.cpp Payment.cpp Admin.cpp -o shoppingcart
